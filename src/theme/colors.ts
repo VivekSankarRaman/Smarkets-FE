@@ -1,0 +1,38 @@
+export const colors = {
+  primaryGreen: "#0ac28b",
+  primaryBlue: "#428af5",
+  primaryPurple: "#692af4",
+  primaryOrange: "#f2994a",
+  primaryYellow: "#f2c94c",
+  primaryPink: "#cc350c",
+
+  hoverGreen: "#00b075",
+  hoverBlue: "#3174e0",
+  hoverPurple: "#5b16f3",
+  hoverOrange: "#fabd7b",
+  hoverYellow: "#f7d86f",
+  hoverPink: "#f28787",
+
+  darkGreen: "#009960",
+  darkBlue: "#2a5bb5",
+  darkPurple: "#4e0cdf",
+  darkOrange: "#c87a39",
+  darkYellow: "#c6a03b",
+  darkPink: "#b64242",
+
+  lightGreen: "#d3f9e9",
+  lightBlue: "#d3e4ff",
+  lightPurple: "#ddcffc",
+  lightOrange: "#fee8cd",
+  lightYellow: "#fbefd0",
+  lightPink: "#fadbdb",
+
+  white: "#fff",
+  lightGrey1: "#f7f7f7",
+  lightGrey2: "#efefef",
+  grey1: "#d6d6d6",
+  grey2: "#b3b3b3",
+  darkGrey1: "#808080",
+  darkGrey2: "#4d4d4d",
+  black: "#333",
+} as const;

@@ -1,0 +1,33 @@
+{
+  "name": "betting-exchange",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "rspack build",
+    "dev": "rspack dev",
+    "preview": "rspack preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^9.3.1",
+    "@reduxjs/toolkit": "^2.12.0",
+    "axios": "^1.19.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-redux": "^9.3.0",
+    "react-router": "^8.3.0"
+  },
+  "devDependencies": {
+    "@rspack/cli": "^2.1.8",
+    "@rspack/core": "^2.1.8",
+    "@rspack/dev-server": "^2.1.0",
+    "@rspack/plugin-react-refresh": "^2.0.2",
+    "@types/node": "^26.1.2",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "react-refresh": "^0.18.0",
+    "typescript": "^6.0.3"
+  }
+}

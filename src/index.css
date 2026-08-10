@@ -1,0 +1,45 @@
+:root {
+  --primary-green: #0ac28b;
+  --primary-blue: #428af5;
+  --primary-purple: #692af4;
+  --primary-orange: #f2994a;
+  --primary-yellow: #f2c94c;
+  --primary-pink: #cc350c;
+
+  --hover-green: #00b075;
+  --hover-blue: #3174e0;
+  --hover-purple: #5b16f3;
+  --hover-orange: #fabd7b;
+  --hover-yellow: #f7d86f;
+  --hover-pink: #f28787;
+
+  --dark-green: #009960;
+  --dark-blue: #2a5bb5;
+  --dark-purple: #4e0cdf;
+  --dark-orange: #c87a39;
+  --dark-yellow: #c6a03b;
+  --dark-pink: #b64242;
+
+  --light-green: #d3f9e9;
+  --light-blue: #d3e4ff;
+  --light-purple: #ddcffc;
+  --light-orange: #fee8cd;
+  --light-yellow: #fbefd0;
+  --light-pink: #fadbdb;
+
+  --white: #fff;
+  --light-grey-1: #f7f7f7;
+  --light-grey-2: #efefef;
+  --grey-1: #d6d6d6;
+  --grey-2: #b3b3b3;
+  --dark-grey-1: #808080;
+  --dark-grey-2: #4d4d4d;
+  --black: #333;
+
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
